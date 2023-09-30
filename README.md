@@ -1,2 +1,3 @@
 # neko040.github.io
-my webpages
+my webpage
+開発中なので見にくいのはご容赦ください。
