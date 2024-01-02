@@ -2,8 +2,7 @@
 
 
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability　　
 ## 脆弱性の報告
-
-なんか脆弱性があったら discordのneko040か、misskeyのnekoにDMにて連絡お願い致します。
-issue作って報告してもらっても構いません。
+なんか脆弱性があったら discordのneko040か、misskeyのnekoにDMにて連絡お願い致します。  
+githubでissue作って報告してもらっても構いません。
