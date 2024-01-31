@@ -11,6 +11,8 @@ ul {
 li {
   list-style: none;
 }
-a { 
-color: 000000;
+a {
+  display: block;
+  color: 000000
+  margin-right: 35px;
 }
